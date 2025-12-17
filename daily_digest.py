@@ -11,7 +11,7 @@ async def send_daily_digest():
         "🚚 Total Units: 10\n"
         "📈 Incidents: 3\n\n"
         "📋 Action Items:\n"
-        "• Daily report test"
+        "• Daily report test (GitHub Actions)"
     )
 
     await bot.send_message(
